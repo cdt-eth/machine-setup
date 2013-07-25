@@ -7,6 +7,7 @@ machine-setup
 + Make DuckDuckGo default search engine
 + Turn off Chrome saving passwords
 + Install git through github for mac
++ Set SSH Keys
 + Install Quicksilver
 + Install Xcode
 + Install Postgres.app
