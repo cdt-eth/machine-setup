@@ -19,5 +19,6 @@ machine-setup
 + brew install redis
 + brew install imagemagick
 + install propane
++ gem install bundler
 
 cloned from scottmotte/machine-setup (great idea Scott)
