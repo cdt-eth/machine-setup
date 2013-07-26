@@ -14,11 +14,13 @@ machine-setup
 + Turn off volume sounds
 + Install Homebrew (ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)")
 + Install Heroku Toolbelt
++ install postgres.app
 + brew install node
-+ brew install postgres
 + brew install redis
 + brew install imagemagick
 + install propane
 + gem install bundler
++ install rvm
++ install ruby 1.9.2, 1.9.3, 2.0.0
 
 cloned from scottmotte/machine-setup (great idea Scott)
