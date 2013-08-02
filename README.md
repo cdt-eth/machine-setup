@@ -4,12 +4,13 @@ machine-setup
 + Install Dropbox
 + Install Chrome
 + Install 1Password Chrome extension
-+ Make DuckDuckGo default search engine
 + Turn off Chrome saving passwords
 + Install git through github for mac
++ git config alias.co checkout
 + Set SSH Keys
-+ Install Quicksilver
++ Install Zsh
 + Install Xcode
++ Install Xcode Home
 + Install Postgres.app
 + Turn off volume sounds
 + Install Homebrew (ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)")
@@ -22,5 +23,7 @@ machine-setup
 + gem install bundler
 + install rvm
 + install ruby 1.9.2, 1.9.3, 2.0.0
++ Install Quantum GIS
++ Install Adobe PS, AI, ID
 
 cloned from scottmotte/machine-setup (great idea Scott)
