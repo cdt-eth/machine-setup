@@ -25,5 +25,6 @@ machine-setup
 + install ruby 1.9.2, 1.9.3, 2.0.0
 + Install Quantum GIS
 + Install Adobe PS, AI, ID
++ git config --global core.editor "subl -n -w"
 
 cloned from scottmotte/machine-setup (great idea Scott)
