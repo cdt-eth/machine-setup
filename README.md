@@ -26,5 +26,8 @@ machine-setup
 + Install Quantum GIS
 + Install Adobe PS, AI, ID
 + git config --global core.editor "subl -n -w"
++ alias start='bundle exec rails s'
++ alias startc='bundle exec rails c'
++ alias killrails='kill -9 $(lsof -i tcp:3000 -t)'
 
 cloned from scottmotte/machine-setup (great idea Scott)
