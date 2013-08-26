@@ -31,4 +31,4 @@ machine-setup
 + git config alias.co checkout
 + Turn off volume sounds
 
-forked from scottmotte/machine-setup (great idea Scott)
+forked from [scottmotte](https://github.com/scottmotte/machine-setup)
