@@ -1,7 +1,7 @@
 machine-setup
 =============
++ Install Dropbox (https://www.dropbox.com/)
 + Install 1Password
-+ Install Dropbox
 + Install Chrome
 + Install 1Password Chrome extension
 + Turn off Chrome saving passwords
