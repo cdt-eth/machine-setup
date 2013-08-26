@@ -12,7 +12,6 @@ machine-setup
 + Install Xcode Home
 + Install Homebrew (ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)")
 + Install Postgres.app [+](http://postgresapp.com/)
-+ Set SSH Keys
 + Install Heroku Toolbelt [+](https://toolbelt.heroku.com/)
 + brew install node
 + brew install redis
@@ -20,8 +19,10 @@ machine-setup
 + Install propane [+](http://propaneapp.com/)
 + Install Sublime [+](http://www.sublimetext.com/)
 + gem install bundler
-+ install rvm
-+ install ruby 1.9.2, 1.9.3, 2.0.0
++ install rvm (curl -L https://get.rvm.io | bash -s)
++ run 'rvm requirements'
++ install ruby 1.9.2, 1.9.3, 2.0.0 (rvm install 1.9.2 --with-gcc=clang)
++ gem install rails
 + Install Quantum GIS
 + Install Adobe PS, AI, ID
 + git config --global core.editor "subl -n -w"
