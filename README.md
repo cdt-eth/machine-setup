@@ -1,8 +1,8 @@
 machine-setup
 =============
 + Install Dropbox (https://www.dropbox.com/)
-+ Install 1Password
-+ Install Chrome
++ Install 1Password (https://agilebits.com/onepassword/mac)
++ Install Chrome [+](https://www.google.com/intl/en/chrome/browser/)
 + Install 1Password Chrome extension
 + Turn off Chrome saving passwords
 + Install git through github for mac
