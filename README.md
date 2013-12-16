@@ -10,7 +10,7 @@ machine-setup
 + Install Oh My Zsh [+](https://github.com/robbyrussell/oh-my-zsh)
 + Install Xcode
 + Install Xcode Home
-+ Install Homebrew (ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)")
++ Install Homebrew (ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)")
 + Install Postgres.app [+](http://postgresapp.com/)
 + Install Heroku Toolbelt [+](https://toolbelt.heroku.com/)
 + brew install node
